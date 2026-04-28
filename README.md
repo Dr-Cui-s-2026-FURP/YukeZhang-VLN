@@ -1,5 +1,12 @@
 # Vision-Language Navigation for Smart Warehouse AMRs
 
+## Current Progress
+
+- [x] Node 1: Simulation Environment Setup completed
+- [x] Node 2: Literature Review & Model Selection completed
+- [ ] Node 3: Baseline Navigation (Coordinate-based) in progress
+- [ ] Node 4: VLN Model Deployment & Testing in progress
+
 
 ---
 
